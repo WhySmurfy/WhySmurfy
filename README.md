@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WhySmurfy
+- 👀 I’m interested in data science and software engineering!
+- 🌱 I’m currently learning Javascript, SQL and have a decent grasp on HTML and CSS.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me; -
